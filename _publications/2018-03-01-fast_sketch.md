@@ -1,5 +1,5 @@
 ---
-authors: "Anoine Chatalic, Rémi Gribonval, Nicolas Keriven"
+authors: "Antoine Chatalic, Rémi Gribonval, Nicolas Keriven"
 title: "Large-Scale High-Dimensional Clustering with Fast Sketching"
 collection: publications
 date: 2018-03-01
