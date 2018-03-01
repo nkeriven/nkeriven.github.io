@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Nicolas Keriven"
   avatar           : "profile.png"
-  bio              : "Post-doctoral student at Ecole Normale Supérieure (Paris), on the CFM-ENS ''Laplace'' chair in Data Science. High-dimensional/large data, dimensionality reduction, compressed sensing, inverse problems. <br> nicolas.keriven[at]ens[dot]fr"
+  bio              : "Post-doctoral student at Ecole Normale Supérieure (Paris), on the CFM-ENS ''Laplace'' chair in Data Science. <br> nicolas.keriven[at]ens[dot]fr"
   location         : "Paris, France"
   employer         :
   googlescholar    :
@@ -172,7 +172,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  preprint:
+    output: true
+    permalink: /:collection/:path/
+  journal:
+    output: true
+    permalink: /:collection/:path/
+  conference:
     output: true
     permalink: /:collection/:path/
   portfolio:
