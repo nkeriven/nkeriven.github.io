@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a postdoctoral researcher at Ecole Normale Supérieure, on the [CFM-ENS](https://data-ens.github.io) "Laplace" chair in data science.
 
+I organize the [Laplace reading group](https://data-ens.github.io/reading_group/), send me a mail if you want to subscribe to the mailing list or present something.
+
 Research Interest
 ======
 
