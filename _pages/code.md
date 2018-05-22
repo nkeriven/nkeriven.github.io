@@ -4,6 +4,10 @@ permalink: /code/
 author_profile: true
 ---
 
+## NEWMA: Scalable model-free online change-point detection
+
+Coming soon.
+
 ## Sketched Mixture Model Learning: <a href="http://sketchml.gforge.inria.fr" target="_blank">SketchMLbox</a>
 
 Linear sketches are a general class of compressed representations of databases ([this book](http://db.cs.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) is a great reference), such that: *the sketch of the union of two databases is the sum of their sketches*. This includes histograms or hash tables. A typical "sketched" method has two steps: a compression step, to compute the sketch, and a learning step, to extract relevant information from the sketch. Linear sketches are built such that the compression step is amenable to streaming, distributed or parallel computing. Then, learning from the sketch is usually inexpensive compared to learning directly from raw data. 
