@@ -4,11 +4,11 @@ permalink: /code/
 author_profile: true
 ---
 
-## NEWMA: Scalable model-free online change-point detection
+### NEWMA: Scalable model-free online change-point detection
 
-Coming soon.
+The code for [this paper](https://arxiv.org/abs/1805.08061) is available [here](https://github.com/lightonai/newma). 
 
-## Sketched Mixture Model Learning: <a href="http://sketchml.gforge.inria.fr" target="_blank">SketchMLbox</a>
+### Sketched Mixture Model Learning: <a href="http://sketchml.gforge.inria.fr" target="_blank">SketchMLbox</a>
 
 Linear sketches are a general class of compressed representations of databases ([this book](http://db.cs.berkeley.edu/cs286/papers/synopses-fntdb2012.pdf) is a great reference), such that: *the sketch of the union of two databases is the sum of their sketches*. This includes histograms or hash tables. A typical "sketched" method has two steps: a compression step, to compute the sketch, and a learning step, to extract relevant information from the sketch. Linear sketches are built such that the compression step is amenable to streaming, distributed or parallel computing. Then, learning from the sketch is usually inexpensive compared to learning directly from raw data. 
 
@@ -19,6 +19,6 @@ For applications and theoretical guarantees, see our [publications](/publication
 
 ![Sketch mixture](/files/sketchml.png)
 
-## Source Separation with mixture of alpha-stable distributions
+### Source Separation with mixture of alpha-stable distributions
 
 Gaussian Mixture Models can be used to assign time-frequency bins of a spectrogram to different sources, and separating them. In this [paper](https://arxiv.org/abs/1711.04460), we use the CL-OMPR algorithm to learn an exotic mixture model specially designed for this case: each component is the sum of an alpha-stable distribution with rank-one precision matrix (which represents the steering vector, or "direction" of the source), and Gaussian noise. The code is available [on my Github](https://github.com/nkeriven/alpha_stable_bss).
