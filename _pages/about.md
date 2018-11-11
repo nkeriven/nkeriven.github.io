@@ -12,12 +12,14 @@ I am currently a postdoctoral researcher at Ecole Normale Supérieure, on the [C
 
 I organize the [Laplace reading group](https://data-ens.github.io/reading_group/), send me a mail if you want to subscribe to the mailing list or present something.
 
+We organize the [Sparsity4PSL](https://sparsity4psl.github.io) summer school in June 2019.
+
 Research Interest
 ======
 
-* Compressive Sensing
-* Dimensionality Reduction
-* Learning, big data, small data.
+* Compressive Sensing, Dimensionality Reduction
+* Signal Processing, Machine Learning
+* Large-Scale Online algorithms
 
 Short Bio
 ======
