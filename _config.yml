@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Keriven"
-  avatar           : "profile.png"
-  bio              : "Post-doctoral student at Ecole Normale Supérieure (Paris), on the CFM-ENS ''Laplace'' chair in Data Science. <br> nicolas.keriven[at]ens[dot]fr"
-  location         : "Paris, France"
+  avatar           : "id2.jpg"
+  bio              : "CNRS researcher in signal processing and machine learning, CICS team, GIPSA-lab. <br> <i>nicolas.keriven [at] gipsa-lab.grenoble-inp [dot] fr</i>"
+  location         : "Grenoble, France"
   employer         :
   googlescholar    :
   email            :
