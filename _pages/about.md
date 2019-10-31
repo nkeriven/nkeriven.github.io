@@ -10,16 +10,16 @@ redirect_from:
 
 I am a CNRS researcher with the [CICS team](http://www.gipsa-lab.fr/cics.php) (Communication and Information in Complex Sytems) in the [GIPSA laboratory](http://www.gipsa-lab.fr/) (Grenoble, France).
 
-News
+Jobs
 ======
 We have an offer for a Master internship on large-scale learning on graphs at the Gipsa-lab for the fall of 2020. See the detailed proposition [here](http://nkeriven.github.io/files/stage_graph_sampling.pdf).
 
 Research Interest
 ======
 
-* Dimensionality Reduction and Sparsity in Signal Processing and Machine Learning
-* Large-Scale algorithms
-* Graph sampling, graph neural nets
+* Dimensionality reduction and Sparsity
+* Random projections
+* Signal processing on graphs, graph neural nets
 
 Short Bio
 ======
