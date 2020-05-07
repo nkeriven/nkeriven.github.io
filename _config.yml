@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Keriven"
-  avatar           : "id2.jpg"
+  avatar           : "profile.png"
   bio              : "CNRS researcher in signal processing and machine learning, CICS team, GIPSA-lab. <br> <i>nicolas.keriven [at] gipsa-lab.grenoble-inp [dot] fr</i>"
   location         : "Grenoble, France"
   employer         :
