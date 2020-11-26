@@ -17,6 +17,10 @@ Research Interest
 * Random graphs
 * Dimensionality reduction and Sparsity
 
+Misc.
+======
+I co-organize the [GAIA seminars](https://gaia.gricad-pages.univ-grenoble-alpes.fr/seminar/), do not hesitate to subscribe to the mailing list for news.
+
 Short Bio
 ======
 
