@@ -1,5 +1,5 @@
 ---
-title: "Graph Neural Networks: Introduction, recent theoretical results"
+title: "Graph Neural Networks: Introduction, some theoretical properties"
 collection: talks
 type: "Talk"
 date: 2020-12-08
