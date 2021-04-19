@@ -10,7 +10,9 @@ The code for most papers is available [on Github](https://github.com/nkeriven/).
 
 [Here](https://github.com/nkeriven/random-graph-gnn).
 
-![RG0](/files/cgcn0.png)![RG1](/files/cgcn1.png)![RG2](/files/cgcn2.png)
+<img src="/files/cgcn0.png" alt="drawing" width="30%"/>
+<img src="/files/cgcn1.png" alt="drawing" width="30%"/>
+<img src="/files/cgcn2.png" alt="drawing" width="30%"/>
 
 ### NEWMA: Scalable model-free online change-point detection
 
