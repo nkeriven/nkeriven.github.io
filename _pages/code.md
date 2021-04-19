@@ -4,6 +4,14 @@ permalink: /code/
 author_profile: true
 ---
 
+The code for most papers is available [on Github](https://github.com/nkeriven/).
+
+### Convergence and stability of GNNs on large random graphs
+
+[Here](https://github.com/nkeriven/random-graph-gnn).
+
+![RG0](/files/cgcn0.png)![RG1](/files/cgcn1.png)![RG2](/files/cgcn2.png)
+
 ### NEWMA: Scalable model-free online change-point detection
 
 The code for [this paper](https://arxiv.org/abs/1805.08061) is available [here](https://github.com/lightonai/newma). 
