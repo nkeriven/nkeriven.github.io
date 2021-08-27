@@ -21,6 +21,19 @@ Misc.
 ======
 I co-organize the [GAIA seminars](https://gaia.gricad-pages.univ-grenoble-alpes.fr/seminar/), do not hesitate to subscribe to the mailing list for news.
 
+I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes-chercheuses-jeunes-chercheurs-jcjc/) grant for my project GRandMa (Random Graphs in Machine learning). Stay tuned for job openings and more!
+
+Students
+======
+
+## Phd
+* Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-)
+* Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-)
+
+## Master Interns
+* Yannick Malot (2021)
+* Hashem Ghanem (2020)
+
 Short Bio
 ======
 
