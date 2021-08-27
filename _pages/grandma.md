@@ -7,4 +7,3 @@ author_profile: true
 
 *(In construction)*
 
-Project GRandMa is funded by an ANR JCJC grant (Young Researcher).

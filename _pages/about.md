@@ -20,7 +20,7 @@ I am a CNRS researcher with the [GAIA team](http://www.gipsa-lab.fr/cics.php) (G
 
 I co-organize the [GAIA seminars](https://gaia.gricad-pages.univ-grenoble-alpes.fr/seminar/), do not hesitate to subscribe to the mailing list for news.
 
-I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes-chercheuses-jeunes-chercheurs-jcjc/) grant for my project GRandMa (Random Graphs in Machine learning). Stay tuned for job openings and more!
+I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes-chercheuses-jeunes-chercheurs-jcjc/) grant for my project [GRandMa](/grandma/) (Random Graphs in Machine learning). Stay tuned for job openings and more!
 
 ## Students
 
