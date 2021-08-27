@@ -24,11 +24,11 @@ I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes
 
 ## Students
 
-#### Phd
+### Phd
 * Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-)
 * Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-)
 
-#### Master Interns
+### Master Interns
 * Yannick Malot (2021)
 * Hashem Ghanem (2020)
 
