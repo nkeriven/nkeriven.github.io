@@ -17,17 +17,17 @@ TBA
 
 ## Associated papers
 
-- N. Keriven, A. Bietti, S. Vaiter. **On the Universality of Graph Neural Networks on Large Random Graphs** *NeurIPS* 2021
+- N. Keriven, A. Bietti, S. Vaiter. **On the Universality of Graph Neural Networks on Large Random Graphs** *NeurIPS* 2021. [Pdf](https://arxiv.org/abs/2105.13099)
 <p align="center">
 <img src="/files/eq_sbm_gnn_graph.png" alt="drawing" width="30%"/>
 <img src="/files/eq_sbm_sgnn_graph.png" alt="drawing" width="30%"/>
 </p>
 
-- N. Keriven, A. Bietti, S. Vaiter. **Convergence and Stability of Graph Convolutional Network Networks on Large Random Graphs** *NeurIPS (Spotlight)* 2020
+- N. Keriven, A. Bietti, S. Vaiter. **Convergence and Stability of Graph Convolutional Network Networks on Large Random Graphs** *NeurIPS (Spotlight)* 2020. [Pdf](https://arxiv.org/abs/2006.01868)
 
 <p align="center">
-<img src="/files/cgcn0.png" alt="drawing" width="20%"/>
-<img src="/files/cgcn1.png" alt="drawing" width="20%"/>
-<img src="/files/cgcn2.png" alt="drawing" width="20%"/>
+<img src="/files/cgcn0.png" alt="drawing" width="15%"/>
+<img src="/files/cgcn1.png" alt="drawing" width="15%"/>
+<img src="/files/cgcn2.png" alt="drawing" width="15%"/>
 </p>
 
