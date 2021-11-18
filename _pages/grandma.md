@@ -11,16 +11,18 @@ Graphs have become popular objects to represent many kinds of structured and rel
 
 **GRandMa (2022 - 2026) aims to fill this gap, by incorporating the use of Random Graphs in modern Graph ML algorithms. By improving our theoretical understanding of these algorithms and their limitations on large graphs, we hope to develop new, efficient graph ML algorithms.**
 
-### Jobs
+## Jobs
 
 TBA
 
-### Associated papers
+## Associated papers
 
 - N. Keriven, A. Bietti, S. Vaiter. **On the Universality of Graph Neural Networks on Large Random Graphs** *NeurIPS* 2021
 - N. Keriven, A. Bietti, S. Vaiter. **Convergence and Stability of Graph Convolutional Network Networks on Large Random Graphs** *NeurIPS (Spotlight)* 2020
 
-<img src="/files/cgcn0.png" alt="drawing" width="30%"/>
-<img src="/files/cgcn1.png" alt="drawing" width="30%"/>
-<img src="/files/cgcn2.png" alt="drawing" width="30%"/>
+<p align="center">
+<img src="/files/cgcn0.png" alt="drawing" width="20%"/>
+<img src="/files/cgcn1.png" alt="drawing" width="20%"/>
+<img src="/files/cgcn2.png" alt="drawing" width="20%"/>
+</p>
 
