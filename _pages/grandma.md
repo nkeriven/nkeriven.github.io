@@ -18,6 +18,11 @@ TBA
 ## Associated papers
 
 - N. Keriven, A. Bietti, S. Vaiter. **On the Universality of Graph Neural Networks on Large Random Graphs** *NeurIPS* 2021
+<p align="center">
+<img src="/files/eq_sbm_gnn_graph.png" alt="drawing" width="30%"/>
+<img src="/files/eq_sbm_sgnn_graph.png" alt="drawing" width="30%"/>
+</p>
+
 - N. Keriven, A. Bietti, S. Vaiter. **Convergence and Stability of Graph Convolutional Network Networks on Large Random Graphs** *NeurIPS (Spotlight)* 2020
 
 <p align="center">
