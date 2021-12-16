@@ -20,7 +20,9 @@ I am a CNRS researcher with the [GAIA team](http://www.gipsa-lab.fr/cics.php) (G
 
 I co-organize the [GAIA seminars](https://gaia.gricad-pages.univ-grenoble-alpes.fr/seminar/), do not hesitate to subscribe to the mailing list for news.
 
-I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes-chercheuses-jeunes-chercheurs-jcjc/) grant for my project [GRandMa](/grandma/) (Random Graphs in Machine learning). Stay tuned for job openings and more!
+We organize a [GdR ISIS thematic day](https://www.gdr-isis.fr/index.php/reunion/467/) on Graph Machine Learning on March 8th 2022, please consider attending and sending contributions. See [here](/gml2022/) for more infos.
+
+I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes-chercheuses-jeunes-chercheurs-jcjc/) grant for my project [GRandMa](/grandma/) (Random Graphs in Machine learning). See [here](/grandma/) for job openings.
 
 ## Students
 
