@@ -13,7 +13,7 @@ Graphs have become popular objects to represent many kinds of structured and rel
 
 ## Jobs
 
-- **Spring 2022: Master 2 Internship + PhD**: [Random Graphs in Machine Learning](http://nkeriven.github.io/files/2022_stage_gml.pdf). The core topic of GRandMa: the use of random graphs to study generalization and sample complexities in graph machine learning. W/ [Simon Barthelmé](https://barthesi.gricad-pages.univ-grenoble-alpes.fr/) and [Yohann De Castro](https://ydecastro.github.io/).
+- **Spring 2022: Master 2 Internship + PhD** <span style="color:red">(Filled)</span>: [Random Graphs in Machine Learning](https://nkeriven.github.io/files/2022_stage_gml.pdf). The core topic of GRandMa: the use of random graphs to study generalization and sample complexities in graph machine learning. W/ [Simon Barthelmé](https://barthesi.gricad-pages.univ-grenoble-alpes.fr/) and [Yohann De Castro](https://ydecastro.github.io/).
 
 ## Associated papers
 
