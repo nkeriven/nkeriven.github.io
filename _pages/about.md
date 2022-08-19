@@ -18,6 +18,8 @@ I am a CNRS researcher with the [GAIA team](http://www.gipsa-lab.fr/cics.php) (G
 
 ## Misc.
 
+We organize a conference on Machine Learning and Signal Processing on Graphs at CIRM, Marseille, in November 2022. See [here](https://conferences.cirm-math.fr/2588.html) for more infos and registration.
+
 I co-organize the [GAIA seminars](https://gaia.gricad-pages.univ-grenoble-alpes.fr/seminar/), do not hesitate to subscribe to the mailing list for news.
 
 I have been awarded an [ANR JCJC](https://anr.fr/fr/detail/call/programme-jeunes-chercheuses-jeunes-chercheurs-jcjc/) grant for my project [GRandMa](/grandma/) (Random Graphs in Machine learning). See [here](/grandma/) for job openings.
