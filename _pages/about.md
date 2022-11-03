@@ -36,9 +36,12 @@ I play the piano, [here](https://soundcloud.com/daoloar), [here](https://soundcl
 ## Students
 
 ### Phd
+* Martin Gjorgjevski, with Simon Barthelmé and Yohann de Castro (2022-)
 * Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-)
 * Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-)
 
 ### Master Interns
+* Marc Theveneau (2022)
+* Martin Gjorgjevski (2022)
 * Yannick Malot (2021)
 * Hashem Ghanem (2020)
