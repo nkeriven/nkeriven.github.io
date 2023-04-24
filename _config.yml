@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Keriven"
-  avatar           : "profile.png"
-  bio              : "CNRS researcher in signal processing and machine learning, GAIA team, GIPSA-lab. <br> <i>nicolas.keriven [at] cnrs [dot] fr</i>"
-  location         : "Grenoble, France"
+  avatar           : "id_montagne.jpg"
+  bio              : "CNRS researcher in signal processing and machine learning, SIROCCO team, IRISA. <br> <i>nicolas.keriven [at] cnrs [dot] fr</i>"
+  location         : "Rennes, France"
   employer         :
   googlescholar    :
   email            :
