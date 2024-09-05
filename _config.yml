@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicolas Keriven"
 title_separator          : "-"
 name                     : &name "Nicolas Keriven"
-description              : &description "CNRS Researcher in Grenoble"
+description              : &description "CNRS Researcher in Rennes"
 url                      : https://nkeriven.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nkeriven/nkeriven.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Nicolas Keriven"
   avatar           : "id_montagne.jpg"
-  bio              : "CNRS researcher in signal processing and machine learning, SIROCCO team, IRISA. <br> <i>nicolas.keriven [at] cnrs [dot] fr</i>"
+  bio              : "CNRS researcher in signal processing and machine learning, COMPACT team, IRISA. <br> <i>nicolas.keriven [at] cnrs [dot] fr</i>"
   location         : "Rennes, France"
   employer         :
   googlescholar    :
@@ -95,7 +95,7 @@ author:
   github           : "nkeriven"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "nicolaskeriven"
   lastfm           :
   linkedin         :
   orcid            : 
@@ -104,11 +104,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "n_keriven"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "nicolaskeriven"
   wikipedia        :
 
 
