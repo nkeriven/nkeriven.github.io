@@ -9,6 +9,7 @@ header:
 <center>
 <img src="/images/malaga/malaga.gif" width="100%">
 </center>
+
 ## Abstract
 
 <div style="text-align: justify">
@@ -21,10 +22,14 @@ The ambition of project MALAGA is to develop such a theory. Solving the crucial 
 
 ## Jobs
 
-Many job offers (PhD and post-docs) will be posted here in a near-future, in the meantime do not hesitate to contact me if you are interested in the topic!
+More job offers (PhD and post-docs) will be posted here in a near-future, in the meantime do not hesitate to contact me if you are interested in the theory of Graph ML and GNNs in general!
+
+- M2 Internship/PhD: *Generalization of Graph Neural Networks on Large Graphs* [Pdf](/files/jobs/malaga/phd1.pdf)
+- M2 Internship/PhD: *Node features in Graph Machine Learning:benchmarks and new models* [Pdf](/files/jobs/malaga/phd2.pdf)
 
 ## Associated papers
 
+- M. Cordonnier, N. Keriven, N. Tremblay, S. Vaiter. **Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs** *Preprint* 2024. [Pdf](https://arxiv.org/abs/2304.11140)
 - N. Keriven, S. Vaiter. **What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding** *NeurIPS* 2023. [Pdf](https://arxiv.org/abs/2305.14814)
 - N. Keriven. **Not too little, not too much: a theoretical analysis of graph (over)smoothing** *NeurIPS* 2022. [Pdf](https://arxiv.org/abs/2205.12156)
 - N. Keriven, A. Bietti, S. Vaiter. **On the Universality of Graph Neural Networks on Large Random Graphs** *NeurIPS* 2021. [Pdf](https://arxiv.org/abs/2105.13099)
