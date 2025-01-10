@@ -20,7 +20,7 @@ I am a CNRS researcher with the [COMPACT team](https://team.inria.fr/sirocco/fr/
 
 I have been awarded an ERC Starting Grant for my project [MALAGA](/malaga/). See [here](/malaga/) for job openings. Do not hesitate to contact me even if no job offer is currently posted!
 
-We organize a [local meetup in Paris](https://sites.google.com/view/learning-on-graph-paris-meetup/home) for the [Learning on Graphs conference](https://logconference.org/), fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSc5E4rKrdOmDJ4r6v1v2pjIVFdq7aMd6Ur9FdhiS1v8AytuGw/viewform) if you wanna present something!
+We organize a GdR IASIS/RADIA [thematic day](https://gdr-iasis.cnrs.fr/reunions/apprentissage-et-graphes/) on Graph Machine Learning and GNNs, March 31st at IHP Paris. Send us an abstract if you wanna present something!
 
 ## Short Bio
 
