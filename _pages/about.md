@@ -28,7 +28,7 @@ I graduated from Ecole polytechnique (Palaiseau, France), and obtained the « Ma
 
 I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) or [solo](https://youtube.com/@nicolaskeriven). Check out our first single!
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/mFTnj1Em7oU?si=w5u_aBwt2sea_HLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="420" height="236" src="https://www.youtube.com/embed/NrC-JqQ52eI?si=IH863kzMNcKDGkm3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Students
 
