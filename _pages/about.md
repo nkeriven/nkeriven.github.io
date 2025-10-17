@@ -33,12 +33,14 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 ## Students
 
 ### Phd
+* Adarsh Jamadandi, with Aline Roumy (2025-)
 * Antonin Joly, with Aline Roumy (2024-)
 * Martin Gjorgjevski, with Simon Barthelmé and Yohann de Castro (2022-)
-* Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-)
+* Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-2024)
 * Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-2023)
 
-### Master Interns
+### Interns
+* Yann Viegas (2025)
 * Raphaël Léger (2024)
 * Antonin Joly (2023)
 * Marc Theveneau (2022)
