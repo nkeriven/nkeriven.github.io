@@ -41,7 +41,7 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 
 ### Post-doc
 * Hugo Jaquard (2025-)
-* Caroline Mazini-Rodrigues (2025-)
+* Caroline Mazini-Rodrigues, with Thomas Maugey (2025-)
 
 ### Interns
 * Yann Viegas (2025)
