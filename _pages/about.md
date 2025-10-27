@@ -39,6 +39,10 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 * Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-2024)
 * Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-2023)
 
+### Post-doc
+* Hugo Jaquard (2025-)
+* Caroline Mazini-Rodrigues (2025-)
+
 ### Interns
 * Yann Viegas (2025)
 * Raphaël Léger (2024)
