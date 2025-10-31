@@ -24,8 +24,8 @@ The ambition of project MALAGA is to develop such a theory. Solving the crucial 
 
 More job offers (PhD and post-docs) will be posted here in a near-future, in the meantime do not hesitate to contact me if you are interested in the theory of Graph ML and GNNs in general!
 
-- M2 Internship/PhD: *Generalization of Graph Neural Networks on Large Graphs* [Pdf](/files/jobs/malaga/phd1.pdf)
-- M2 Internship/PhD: *Node features in Graph Machine Learning:benchmarks and new models* [Pdf](/files/jobs/malaga/phd2.pdf)
+- M2 Internship/PhD: *Generalization of GNNs on Large Graphs* [Pdf](/files/jobs/malaga/internship_generalization.pdf)
+- M2 Internship/PhD: *Sampling in Graph ML* [Pdf](/files/jobs/malaga/internship_sampling.pdf)
 - M2 Internship/PhD: *Hyperbolic GNNs* TBA
 - Post-doc: free topic on GNN theory, contact me to discuss!
 
