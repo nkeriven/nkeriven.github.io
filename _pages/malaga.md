@@ -26,7 +26,7 @@ More job offers (PhD and post-docs) will be posted here in a near-future, in the
 
 - Master Internship/PhD: *Generalization of GNNs on Large Graphs* [Pdf](/files/jobs/malaga/internship_generalization.pdf)
 - Master Internship/PhD: *Sampling in Graph ML* [Pdf](/files/jobs/malaga/internship_sampling.pdf)
-- Master Internship/PhD: *Local hyperbolicity and GNNs* [Pdf](/files/jobs/malaga/internship_hyperbolicity.pdf)
+- Master Internship/PhD: *Local hyperbolicity and GNNs* [Pdf](/files/jobs/malaga/internship_hyperbolic.pdf)
 - Master Internship/PhD: *Revisiting Graph U-net through the lens of Graph Coarsening* [Pdf](/files/jobs/malaga/internship_unet.pdf)
 - Post-doc: free topic on GNN theory, contact me to discuss!
 
