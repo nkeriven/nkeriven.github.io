@@ -16,11 +16,9 @@ I am a CNRS researcher with the [COMPACT team](https://team.inria.fr/sirocco/fr/
 * Random graphs
 * Dimensionality reduction and Sparsity
 
-## Misc.
+## Jobs
 
 I have been awarded an ERC Starting Grant for my project [MALAGA](/malaga/). See [here](/malaga/) for job openings. Do not hesitate to contact me even if no job offer is currently posted!
-
-We organize a GdR IASIS/RADIA [thematic day](https://gdr-iasis.cnrs.fr/reunions/apprentissage-et-graphes/) on Graph Machine Learning and GNNs, March 31st at IHP Paris. Send us an abstract if you wanna present something!
 
 ## Short Bio
 
