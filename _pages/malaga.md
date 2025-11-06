@@ -30,12 +30,4 @@ More job offers (PhD and post-docs) will be posted here in a near-future, in the
 - Master Internship/PhD: *Revisiting Graph U-net through the lens of Graph Coarsening* [Pdf](/files/jobs/malaga/internship_unet.pdf)
 - Post-doc: free topic on GNN theory, contact me to discuss!
 
-## Associated papers
-
-- M. Cordonnier, N. Keriven, N. Tremblay, S. Vaiter. **Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs** *Preprint* 2024. [Pdf](https://arxiv.org/abs/2304.11140)
-- N. Keriven, S. Vaiter. **What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding** *NeurIPS* 2023. [Pdf](https://arxiv.org/abs/2305.14814)
-- N. Keriven. **Not too little, not too much: a theoretical analysis of graph (over)smoothing** *NeurIPS* 2022. [Pdf](https://arxiv.org/abs/2205.12156)
-- N. Keriven, A. Bietti, S. Vaiter. **On the Universality of Graph Neural Networks on Large Random Graphs** *NeurIPS* 2021. [Pdf](https://arxiv.org/abs/2105.13099)
-- N. Keriven, A. Bietti, S. Vaiter. **Convergence and Stability of Graph Convolutional Network Networks on Large Random Graphs** *NeurIPS (Spotlight)* 2020. [Pdf](https://arxiv.org/abs/2006.01868)
-
 
