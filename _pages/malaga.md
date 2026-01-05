@@ -24,10 +24,10 @@ The ambition of project MALAGA is to develop such a theory. Solving the crucial 
 
 More job offers (PhD and post-docs) will be posted here in a near-future, in the meantime do not hesitate to contact me if you are interested in the theory of Graph ML and GNNs in general!
 
-- Master Internship/PhD: *Generalization of GNNs on Large Graphs* [Pdf](/files/jobs/malaga/internship_generalization.pdf)
-- Master Internship/PhD: *Sampling in Graph ML* [Pdf](/files/jobs/malaga/internship_sampling.pdf)
-- Master Internship/PhD: *Local hyperbolicity and GNNs* [Pdf](/files/jobs/malaga/internship_hyperbolic.pdf) (w/ Laeticia Chapel and Nicolas Courty)
-- Master Internship/PhD: *Revisiting Graph U-net through the lens of Graph Coarsening* [Pdf](/files/jobs/malaga/internship_unet.pdf)
+- Master Internship/PhD: *Generalization of GNNs on Large Graphs* **Filled**
+- Master Internship/PhD: *Sampling in Graph ML* **Filled**
+- Master Internship/PhD: *Local hyperbolicity and GNNs* (w/ Laeticia Chapel and Nicolas Courty) **Filled**
+- Master Internship/PhD: *Revisiting Graph U-net through the lens of Graph Coarsening* **Filled**
 - Post-doc: free topic on GNN theory, contact me to discuss!
 
 
