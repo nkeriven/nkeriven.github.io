@@ -30,4 +30,8 @@ More job offers (PhD and post-docs) will be posted here in a near-future, in the
 - Master Internship/PhD: *Revisiting Graph U-net through the lens of Graph Coarsening* **Filled**
 - Post-doc: free topic on GNN theory, contact me to discuss!
 
+## Events
 
+Two events are currently co-organized by MALAGA:
+- [Curves and Surfaces mini-symposium on GNNs](https://cs2026.sciencesconf.org/), June 8-12, St-Malo.
+- [GraphLearn 2](https://conferences.cirm-math.fr/3653.html), Sept. 21-25, CIRM, Marseille. **Deadline for pre-registration: April 15th**

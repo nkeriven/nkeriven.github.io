@@ -16,6 +16,10 @@ I am a CNRS researcher with the [COMPACT team](https://team.inria.fr/sirocco/fr/
 * Random graphs
 * Dimensionality reduction and Sparsity
 
+## News
+
+I co-organize several events around Graph ML. See [this page](/events).
+
 ## Jobs
 
 I have been awarded an ERC Starting Grant for my project [MALAGA](/malaga/). See [here](/malaga/) for job openings. Do not hesitate to contact me even if no job offer is currently posted!
@@ -26,7 +30,7 @@ I graduated from Ecole polytechnique (Palaiseau, France), and obtained the « Ma
 
 I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) or [solo](https://youtube.com/@nicolaskeriven). Check out our latest track!
 
-<iframe width="420" height="236" src="https://youtu.be/bnG5aVFu5cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="420" height="236" src="https://www.youtube.com/embed/bnG5aVFu5cs?si=a8mIh_j3KD8Vp_yW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Students
 
@@ -41,7 +45,12 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 * Hugo Jaquard (2025-)
 * Caroline Mazini-Rodrigues, with Thomas Maugey (2025-)
 
+### Research Engineer
+* Claudio Fantasio (2026)
+
 ### Interns
+* Anatole Coulais (2026)
+* Karan Rawat (2026)
 * Yann Viegas (2025)
 * Raphaël Léger (2024)
 * Antonin Joly (2023)
