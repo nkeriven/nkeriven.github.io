@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 > **Thesis**: *Sketching for Large-Scale Learning of Mixture Models* [[Pdf]](https://tel.archives-ouvertes.fr/tel-01620815/){:target="_blank"}
+> **HDR manuscript**: *Graph Machine Learning and Graph Neural Networks on Large (random) Graphs* [[Pdf]](/files/hdr_keriven.pdf){:target="_blank"}
 
 {% include base_path %}
 
