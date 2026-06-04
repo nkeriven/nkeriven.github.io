@@ -46,7 +46,7 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 * Caroline Mazini-Rodrigues, with Thomas Maugey (2025-)
 
 ### Research Engineer
-* Claudio Fantasio (2026)
+* Claudio Fantasia (2026)
 
 ### Interns
 * Anatole Coulais (2026)
