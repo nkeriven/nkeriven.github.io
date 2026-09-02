@@ -37,13 +37,13 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 ### Phd
 * [Adarsh Jamadandi](https://adarshmj.github.io/), with Aline Roumy (2025-)
 * [Antonin Joly](https://antonin-j.github.io/), with Aline Roumy (2024-)
-* [Martin Gjorgjevski](https://mgjorgje.owlstown.net/), with Simon Barthelmé and Yohann de Castro (2022-)
+* [Martin Gjorgjevski](https://mgjorgje.owlstown.net/), with Simon Barthelmé and Yohann de Castro (2022-2025)
 * Matthieu Cordonnier, with Nicolas Tremblay and Samuel Vaiter (2021-2024)
 * Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-2023)
 
 ### Post-doc
 * Hugo Jaquard (2025-)
-* Caroline Mazini-Rodrigues, with Thomas Maugey (2025-)
+* [Caroline Mazini-Rodrigues](https://carolmazini.github.io/), with Thomas Maugey (2025-)
 
 ### Research Engineer
 * Claudio Fantasia (2026)
