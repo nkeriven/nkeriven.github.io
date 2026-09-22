@@ -32,6 +32,20 @@ More job offers (PhD and post-docs) will be posted here in a near-future, in the
 
 ## Events
 
-Two events are currently co-organized by MALAGA:
-- [Curves and Surfaces mini-symposium on GNNs](https://cs2026.sciencesconf.org/), June 8-12, St-Malo.
-- [GraphLearn 2](https://conferences.cirm-math.fr/3653.html), Sept. 21-25, CIRM, Marseille. **Deadline for pre-registration: April 15th**
+Two events were co-organized by MALAGA in 2026:
+- [Curves and Surfaces mini-symposium on GNNs](https://cs2026.sciencesconf.org/), June 8-12, St-Malo, 2026.
+- [GraphLearn 2](https://conferences.cirm-math.fr/3653.html), Sept. 21-25, CIRM, Marseille, 2026.
+
+## People
+
+### Phd
+* Anatole Coulais, with Titouan Vayer (2026-)
+* Claudio Fantasia, with Nicolas Courty and Laetitia Chapel (2026-)
+* [Adarsh Jamadandi](https://adarshmj.github.io/), with Aline Roumy (2025-)
+
+### Post-doc
+* [Hugo Jaquard](https://hjaquard.github.io/) (2025-)
+
+### Research Engineer
+* Claudio Fantasia (2026)
+

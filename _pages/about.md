@@ -28,13 +28,16 @@ I have been awarded an ERC Starting Grant for my project [MALAGA](/malaga/). See
 
 I graduated from Ecole polytechnique (Palaiseau, France), and obtained the « Mathématiques, Vision, Apprentissage » (MVA) Master’s degree from Ecole Normale Supérieure de Cachan in 2014. I prepared [my PhD thesis](https://tel.archives-ouvertes.fr/tel-01620815/) at IRISA, Rennes, France, under the supervision of Rémi Gribonval, and defended it in October, 2017. From 2017 to 2019 I was a postdoctoral researcher at Ecole Normale Supérieure with Gabriel Peyré, on the [CFM-ENS](https://data-ens.github.io) "Laplace" chair in data science, before joining CNRS in 2019 as a full-time researcher. I defended my [HDR](/files/hdr_keriven.pdf) in 2026. I received the Best Student Paper Award at [SPARS 2017](http://spars2017.lx.it.pt/) and the [Early Career Prize](https://www.siam.org/conferences/cm/program/special-events/is22-special-events) of the SIAM Activity Group on Imaging Science in 2022. I am the PI of [ERC StG MALAGA](/grandma/), starting in 2025.
 
-I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) or [solo](https://youtube.com/@nicolaskeriven). Check out our latest track!
+I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) or [solo](https://youtube.com/@nicolaskeriven). You can find me/us on all platforms. Check out our latest tracks!
 
-<iframe width="420" height="236" src="https://www.youtube.com/embed/bnG5aVFu5cs?si=a8mIh_j3KD8Vp_yW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="210" height="118" src="https://www.youtube.com/embed/bnG5aVFu5cs?si=a8mIh_j3KD8Vp_yW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="210" height="118" src="https://www.youtube.com/embed/4Q6yno_44VI?si=QEVrZY69uF0wFB9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Students
 
 ### Phd
+* Anatole Coulais, with Titouan Vayer (2026-)
+* Claudio Fantasia, with Nicolas Courty and Laetitia Chapel (2026-)
 * [Adarsh Jamadandi](https://adarshmj.github.io/), with Aline Roumy (2025-)
 * [Antonin Joly](https://antonin-j.github.io/), with Aline Roumy (2024-)
 * [Martin Gjorgjevski](https://mgjorgje.owlstown.net/), with Simon Barthelmé and Yohann de Castro (2022-2025)
@@ -42,7 +45,7 @@ I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) 
 * Hashem Ghanem, with Samuel Vaiter and Joseph Salmon (2020-2023)
 
 ### Post-doc
-* Hugo Jaquard (2025-)
+* [Hugo Jaquard](https://hjaquard.github.io/) (2025-)
 * [Caroline Mazini-Rodrigues](https://carolmazini.github.io/), with Thomas Maugey (2025-)
 
 ### Research Engineer
