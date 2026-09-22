@@ -30,8 +30,33 @@ I graduated from Ecole polytechnique (Palaiseau, France), and obtained the « Ma
 
 I play the piano, generally [with a singer](https://youtube.com/@bluecurlmusic) or [solo](https://youtube.com/@nicolaskeriven). You can find me/us on all platforms. Check out our latest tracks!
 
-<iframe width="210" height="118" src="https://www.youtube.com/embed/bnG5aVFu5cs?si=a8mIh_j3KD8Vp_yW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="210" height="118" src="https://www.youtube.com/embed/4Q6yno_44VI?si=QEVrZY69uF0wFB9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-row">
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/bnG5aVFu5cs?si=a8mIh_j3KD8Vp_yW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div class="video-container">
+    <iframe src="https://www.youtube.com/embed/4Q6yno_44VI?si=QEVrZY69uF0wFB9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
+
+<style>
+  .video-row {
+    display: flex;       /* Aligns children side-by-side */
+    gap: 20px;          /* Adds space between the videos */
+    width: 100%;         /* Spans the full width of the page */
+  }
+
+  .video-container {
+    flex: 1;            /* Gives both videos equal width (roughly 50% each) */
+  }
+
+  .video-container iframe {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9; /* Keeps standard YouTube proportions */
+    border: 0;
+  }
+</style>
 
 ## Students
 
